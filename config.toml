@@ -18,7 +18,7 @@ author = "김찬빈"
 description = "Chanbin's First Site"
 keywords = "blog,developer,personal"
 info = ["ChanBin Kim", "Client Programer"]
-avatarURL = "Images/avatar.jpg"
+avatarURL = "/a/avatar.jpg"
 #gravatar = "cong8685@naver.com"
 dateFormat = "May 30, 2022"
 since = 2022
@@ -106,7 +106,7 @@ icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/Noonsom/"
 [languages.en]
-languageName = ":kr:"
+languageName = ":us:"
 
 [[languages.en.menu.main]]
 name = "About"
