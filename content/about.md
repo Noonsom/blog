@@ -10,9 +10,10 @@ author = "Hugo Authors"
 :butterfly: 열정으로 뭉친 개발자 김찬빈입니다.
 
 :name_badge: Name : 김찬빈 (Chanbin Kim)  
+:iphone: mobile : 010-7291-7331
 :email: Email : cong8685@naver.com  
 :computer: GitHub : https://github.com/Noonsom
-  
+
 
 ## :classical_building: 경력   
 * :school: 2014 ~ 2017   |   송원중학교 졸업  
