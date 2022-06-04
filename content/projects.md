@@ -1,5 +1,5 @@
 +++
-title = "Projects"
+title = "Chanbin_Projects"
 slug = "projects"
 +++
 
@@ -7,6 +7,7 @@ slug = "projects"
 
 # :ship: LH  
 ### URL  
+ 3기 신도시 홍보 프로그램 개발
 * https://www.youtube.com/watch?v=CEFawkPgCCQ&t=5s  
 * https://www.youtube.com/watch?v=kDPpZWRZAbI&t=273s
 * https://www.youtube.com/watch?v=7CRVHdwmhgs&t=28s  

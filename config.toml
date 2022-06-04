@@ -108,6 +108,12 @@ url = "https://github.com/Noonsom/"
 [languages.en]
 languageName = ":us:"
 
+[[params.social]]
+name = "Envelope"
+icon = "fa fa fa-envelope"
+weight = 2
+url = "https://noonsom.github.io/about/"
+
 [[languages.en.menu.main]]
 name = "About"
 weight = 1
@@ -122,8 +128,3 @@ url = "projects/"
 name = "Blog"
 weight = 3
 url = "posts/"
-
-[[languages.en.menu.main]]
-name = "Contact me"
-weight = 5
-url = "contact/"
