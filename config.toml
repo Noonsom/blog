@@ -1,5 +1,5 @@
 baseURL = "https://noonsom.github.io/"
-title = "비니의 아주작은 포트폴리오"
+title = "신나는 개발자 Blog"
 theme = "hugo-coder"
 languageCode = "en"
 defaultContentLanguage = "en"
@@ -13,11 +13,15 @@ enableEmoji = true
 
 [params]
 author = "김찬빈"
+favicon_32 = "/img/favicon-32x32.png"
+favicon_16 = "/img/favicon-16x16.png"
+favicon_192 = "/img/favicon-192x192.png"
+favicon_512 = "/img/favicon-512x512.png"
 
 # license = '<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA-4.0</a>'
 description = "Chanbin's First Site"
 keywords = "blog,developer,personal"
-info = ["ChanBin Kim", "Client Programer"]
+info = ["ChanBin Kim", "Unreal, Unity Programer"]
 avatarURL = "/a/avatar.jpg"
 #gravatar = "cong8685@naver.com"
 dateFormat = "May 30, 2022"
@@ -109,10 +113,10 @@ url = "https://github.com/Noonsom/"
 languageName = ":us:"
 
 [[params.social]]
-name = "Envelope"
-icon = "fa fa fa-envelope"
+name = "envelope"
+icon = "fa fa-2x fa-envelope-o"
 weight = 2
-url = "https://noonsom.github.io/about/"
+url = "mailto:cong8685@naver.com"
 
 [[languages.en.menu.main]]
 name = "About"
@@ -120,7 +124,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Projects"
+name = "Portfolio"
 weight = 2
 url = "projects/"
 
